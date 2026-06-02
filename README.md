@@ -124,14 +124,14 @@ The feature importance analysis of the optimized Random Forest model identified 
 
 1. LOC
 2. AMC
-3. CBO
-4. RFC
-5. CAM
-6. CA
-7. LCOM3
-8. MFA
-9. CE
-10. AVG_CC
+3. DAM
+4. LCOM3
+5. MFA
+6. RFC
+7. NPM
+8. CBM
+9. AVG_CC
+10. CAM
 
 ---
 
